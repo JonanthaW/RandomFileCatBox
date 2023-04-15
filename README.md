@@ -6,6 +6,7 @@
 
 Gere aleatóriamente conteúdo hosteado no files.catbox.moe.
 O script busca por vários tipos de arquivos suportados (png, jpg, jpeg, gif, jpeg, svg, webp, ico, TIFF, APNG, mp4, webm, mov, wmv, avi, mkv).
+As imagens, as vezes, demoram para serem achadas, isso é normal).
 
 #### :wrench: Techs utilizadas:
 * _HTML_
