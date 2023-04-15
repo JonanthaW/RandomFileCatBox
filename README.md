@@ -16,7 +16,7 @@ O script busca por vários tipos de arquivos suportados (png, jpg, jpeg, gif, jp
 ### :bulb: Tela da aplicação:
 
 <p align="center">
-  <img src="https://github.com/JonanthaW/RandomFileCatBox/blob/main/assets/example1.jpg">
+  <img src="https://github.com/JonanthaW/RandomFileCatBox/blob/main/assets/example1.png">
 </p>
 
 ```
