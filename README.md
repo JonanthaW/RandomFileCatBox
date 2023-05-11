@@ -19,7 +19,7 @@ O script busca por vários tipos de arquivos suportados (png, jpg, jpeg, gif, jp
 </p>
 
 ```
-A página irá buscar por imagens infinitamente, para parar o script, simplesmente recarregue a página.
+A página irá buscar por imagens infinitamente, para parar o script simplesmente recarregue a página.
 (As imagens, as vezes, demoram para serem achadas, isso é normal).
 ```
 
